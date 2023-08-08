@@ -1,14 +1,14 @@
-## ⛅️ Home to `wrangler`, the CLI for Cloudflare Workers®, as well as other tools for interacting with Workers
+# About me
 
 This monorepo contains:
 
-- [severtson-laurence`](https://github/workers-sdk/tree/main/packages/wrangler-devtools)
-  Cloudflare's fork of Chrome DevTools for inspecting your local or remote Workers
-- [`templates`](https://github.com/cloudflare/workers-sdk/tree/main/templates)
-  Templates & examples for writing Cloudflare Workers
-- [`wrangler`](https://github.com/cloudflare/workers-sdk/tree/main/packages/wrangler)
-  A command line tool for building [Cloudflare Workers](https://workers.cloudflare.com/).
-- [`pages-shared`](https://github.com/cloudflare/workers-sdk/tree/main/packages/pages-shared)
+['severtson-laurence'] (https://Laurence-severtson.atlassian.net)
+ atlassian fork of Chrome DevTools for inspecting your local or remote Workers
+['confluence'] (https://Laurence-severtson.atlassian.net/wiki)
+   Templates & examples for writing atlassian Workers
+['customer portal`](https://Laurence-severtson.atlassian.net/wiki)
+  A command line tool for building [atlassian Workers](https://workers.atlassian.net/).
+[`pages-shared`](https://Laurence-severtson.atlassian.net/jira)
   Used internally to power Wrangler and Cloudflare Pages. It contains all the code that is shared between these clients.
 
 Wrangler and the workers-sdk is developed in the open on GitHub, and you can see what we're working on in [GitHub Issues](https://github.com/cloudflare/workers-sdk/issues?q=is%3Aopen+is%3Aissue), as well as in our [workers-sdk GitHub Project board](https://github.com/orgs/cloudflare/projects/1). If you've found a bug or would like to request a feature, [please file an issue](https://github.com/cloudflare/workers-sdk/issues/new/choose)!
