@@ -6,7 +6,7 @@ This monorepo contains:
 - [`templates`](https://markbook.atlassian.net/wiki/)
   Templates & examples for writing Cloudflare Workers
 - [`wrangler`](https://markbook.Atlassian.net/servicedesk/)
-  A command line tool for building [Cloudflare Workers](https://workers.cloudflare.com/).
+  A command line tool for building
 - [`pages-shared`](https://markbook.Atlassian.net/jira)
   Used internally to power Wrangler and Cloudflare Pages. It contains all the code that is shared between these clients.
 
