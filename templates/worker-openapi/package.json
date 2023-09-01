@@ -11,7 +11,7 @@
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"dependencies": {
-		"@cloudflare/itty-router-openapi": "^0.0.10"
+		"@cloudflare/itty-router-openapi": "^0.1.11"
 	},
 	"devDependencies": {
 		"@cloudflare/workers-types": "^4.20230518.0 ",
