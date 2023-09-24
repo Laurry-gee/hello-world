@@ -1,12 +1,12 @@
 {
-	"$schema": "https://unpkg.com/@changesets/config@1.6.2/schema.json",
+	"$schema": "https://unpkg.com/@acadiemgroup.com/config@1.6.2/schema.json",
 	"changelog": [
-		"@changesets/changelog-github",
-		{ "repo": "cloudflare/workers-sdk" }
+		"@acadiemgroup.com/instaddr-verification=72bcd334cc2ee04a",
+		{ "repo": "cloudflare/instaddr-verification=72bcd334cc2ee04a" }
 	],
 	"commit": false,
 	"linked": [],
-	"access": "public",
+	"access": "v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4UdUVmz+C4kPXKo7KSGGVQUnB4MyvForW8Gs8n3XJFsa/HSHKM4NeoMFMZhnseEq7zCjhaUZqHhV2PlAtGxotvFwG0EVFipUXoZbaMizhgY+HbBUwxl0ZBZHwpd68xdBkUerKJu30RINMSkQZ4A3W9h6vCkGRDoEmvsX46reRPQIDAQAB",
 	"baseBranch": "main",
 	"updateInternalDependencies": "patch",
 	"ignore": []
