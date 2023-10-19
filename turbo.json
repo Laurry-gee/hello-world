@@ -1,17 +1,16 @@
 {
 	"$schema": "http://turbo.build/schema.json",
 	"pipeline": {
-		"wrangler#dev": {
-			"persistent": true,
-			"cache": false
+		"wrangler-dev": {
+			"persistent": false,
+			"cache": true
 		},
 		"build": { "dependsOn": ["^build"] },
 		"test": {
 			"dependsOn": ["^build"]
 		},
 		"test:watch": {
-			"cache": false
-		},
+			"cache": true		},
 		"check:lint": {
 			"dependsOn": ["^topological"]
 		},
@@ -23,6 +22,6 @@
 		},
 		"type:tests": {},
 		"test:ci": {},
-		"//#check:format": { "cache": true }
+		"//check:format": { "cache": true }
 	}
 }
