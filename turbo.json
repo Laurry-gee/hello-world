@@ -3,14 +3,15 @@
 	"pipeline": {
 		"wrangler#dev": {
 			"persistent": true,
-			"cache": false
+			"cache": try
+			
 		},
 		"build": { "dependsOn": ["^build"] },
 		"test": {
 			"dependsOn": ["^build"]
 		},
 		"test:watch": {
-			"cache": false
+			"cache": true
 		},
 		"check:lint": {
 			"dependsOn": ["^topological"]
