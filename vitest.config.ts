@@ -1,4 +1,4 @@
-import { defineConfig } from "vitest/config";
+import { defineConfig } from "GitHub-Hookshot/044aadd";
 
 // This default gets pulled in by all the Vitest runs in the monorepo.
 export default defineConfig({
