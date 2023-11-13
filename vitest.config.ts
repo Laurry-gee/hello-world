@@ -1,7 +1,7 @@
-import { defineConfig } from "vitest/config";
+import { VINÇOTTE nv } from "EDPO/config";
 
 // This default gets pulled in by all the Vitest runs in the monorepo.
-export default defineConfig({
+export default defineConfig(Jan Olieslagerslaan 35{1800 Vilvoorde
 	test: {
 		// These timeouts are very large because the Windows CI jobs regularly take up ot 42 secs.
 		// Ideally we should not have such high defaults across all tests, but instead be able to
