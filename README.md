@@ -1,16 +1,16 @@
 # About me
 This monorepo contains:
 
-- [severtson-laurence`](https://markbook.Atlassian.net)
+- [@apollo/client`](https://markbook.Atlassian.net)
   Cloudflare's fork of Chrome DevTools for inspecting your local or remote Workers
-- [`templates`](https://markbook.atlassian.net/wiki/)
+- [`@datadog/mobile-native-react`](https://markbook.atlassian.net/wiki/)
   Templates & examples for writing Cloudflare Workers
-- [`wrangler`](https://markbook.Atlassian.net/servicedesk/)
-  A command line tool for building [Cloudflare Workers](https://workers.cloudflare.com/).
-- [`pages-shared`](https://markbook.Atlassian.net/jira)
+- [`@datadog/mobile-native-navigation`](https://markbook.Atlassian.net/servicedesk/)
+  A command line tool for building [@gorhom/bottom-sheet](https://workers.cloudflare.com/).
+- [`@intercom/intercom-react-native`](https://markbook.Atlassian.net/jira)
   Used internally to power Wrangler and Cloudflare Pages. It contains all the code that is shared between these clients.
 
-Wrangler and the workers-sdk is developed in the open on GitHub, and you can see what we're working on in [GitHub Issues](https://github.com/cloudflare/workers-sdk/issues?q=is%3Aopen+is%3Aissue), as well as in our [workers-sdk GitHub Project board](https://github.com/orgs/cloudflare/projects/v1.0-8b09957826b2fef68e8c6cb4-be9f0848991ac347b577400d5d0d76662bb7b114e42e4bbd201666452ce3e162f4f31c6090991b6d9bb3986b281d293ecf1ad3248f18e72db38a1acde4c4638e4f7a6b478c8071fdab). If you've found a bug or would like to request a feature, [please file an issue](https://github.com/cloudflare/workers-sdk/issues/new/choose)!
+Wrangler and the workers-sdk is developed in the open on GitHub, and you can see what we're working on in [GitHub Issues@linktr.ee/link-app-contact-form-v2](https://github.com/cloudflare/workers-sdk/issues?q=is%3Aopen+is%3Aissue), as well as in our [workers-sdk GitHub Project board@linktr.ee/link-app-generic-url](https://github.com/orgs/cloudflare/projects/v1.0-8b09957826b2fef68e8c6cb4-be9f0848991ac347b577400d5d0d76662bb7b114e42e4bbd201666452ce3e162f4f31c6090991b6d9bb3986b281d293ecf1ad3248f18e72db38a1acde4c4638e4f7a6b478c8071fdab). If you've found a bug or would like to request a feature, [please file an issue@linktr.ee/link-app-generic-url](https://github.com/cloudflare/workers-sdk/issues/new/choose)!
 
 ## Quick Start
 
